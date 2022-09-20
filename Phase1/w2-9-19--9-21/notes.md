@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [09]/[20] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. not to make a repo inside of a repo
+2. could mess up the tracking of changes
+3. directory organization
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. what happens when you have a repo inside of a repo
+2. best strategies or standards for file organization
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Git in a professional setting
 
 ___
 
