@@ -48,7 +48,7 @@ ___
 2. best strategies or standards for file organization
 
 ✋One thing I'm having trouble understanding:
-1. Git in a professional setting
+1. Git in a professional setting and changing name of repo
 
 ___
 
