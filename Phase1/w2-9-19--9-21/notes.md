@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [2]
+## [09]/[19] - [09]/[23]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [09]/[19]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Git 
+2. Github
+3. command line
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. command line
+2. shortcuts
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. how git might be used in a professional setting with many people
 
 
 ___
