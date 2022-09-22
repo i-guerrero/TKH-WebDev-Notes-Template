@@ -48,11 +48,11 @@ ___
 2. best strategies or standards for file organization
 
 ✋One thing I'm having trouble understanding:
-1. Git in a professional setting and changing name of repo
+1. Git in a professional setting and changing name of repo or local folder - how that affects things
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [09]/[21]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. CSS inline, external vs internal
+2. HTML linking CSS
+3. JS exercism
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. JS linking with HTML and CSS
+2. CSS properties
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. what real world development is like
  
 
