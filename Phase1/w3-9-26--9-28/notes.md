@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [3]
+## [9]/[26] - [9]/[28]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [9]/[26]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. That Figma is a design/wireframing tool
+2. That a wireframe is a barebone skeleton of a website or application
+3. Builder.io and coolors are plugins that can help when using Figma
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to translate Figma wireframe to HTML and CSS
+2. React, Bootstrap, CSS libraries
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. What CSS libraries are and how they're used and Flex
 
 
 ___
