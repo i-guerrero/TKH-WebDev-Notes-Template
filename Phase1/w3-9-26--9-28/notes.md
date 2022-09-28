@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [9]/[27] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. That flex is a CSS property that allows us to create boxes and change where things are placed on the screen
+2. flex: 1 = flex-grow: 1, flex-shrink: 1, flex-basis: 0
+3. flex container has property display: flex & flex items are direct children of the flex container
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. flex properties
+2. justify content
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. flex properties as a whole - will review on my own
 
 ___
 
