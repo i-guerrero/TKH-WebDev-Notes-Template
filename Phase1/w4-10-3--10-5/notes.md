@@ -1,5 +1,5 @@
 # Week [week#]
-## [month]/[day] - [month]/[day]
+## [09]/[day] - [month]/[day]
 
 # Topic:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. JS basics
+2. Variables
+3. Arrays
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. complex functions
+2. higher order functions
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Flexbox
 
 
 ___
