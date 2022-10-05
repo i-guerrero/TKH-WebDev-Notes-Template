@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. let vs const vs var
+2. if else if
+3. nested ifs
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. how to build an interactive adventure with pictures and maybe videos
+2. interactive story mode games in the browser
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. advanced flexbox
 
 ___
 
